@@ -2,9 +2,6 @@
 //                          Departamento de Engenharia Química
 //                              Curso: Engenharia Elétrica
 // Disciplina: Projeto de Sistemas Microcontrolados Professor: Luiz Carlos Campana Sperandio
-//              Intregrantes: Brendow Hatschbach da Silva   RA:125513
-//                            Gustavo Kauã dos Reis            124814
-//                                    04/09/2023
 
 
 
