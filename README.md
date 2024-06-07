@@ -1,0 +1,1 @@
+Tratam-se de projetos na área de microcontroladores utilizando essencialmente arduino e esp32 ou também esp8266. O repositório está em constante atualização, portanto, haverão mudanças e renomeações ao longo do tempo.
